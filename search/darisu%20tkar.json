@@ -1,6 +1,6 @@
 {
   "query": "darisu tkar",
-  "timestamp": "2026-05-10T01:51:17.078Z",
+  "timestamp": "2026-05-10T01:51:42.998Z",
   "results": [
     {
       "id": "JwZKZvBoNag",
@@ -26,7 +26,7 @@
           {
             "text": "Radio Rap",
             "navigationEndpoint": {
-              "clickTrackingParams": "CJsCENwwGAEiEwjfo_jsza2UAxVIcKQEHZJSBg3KAQTIMrf6",
+              "clickTrackingParams": "CPQBENwwGAEiEwi8saT5za2UAxUHHwYAHYtuO4PKAQSkskJ3",
               "commandMetadata": {
                 "webCommandMetadata": {
                   "url": "/@radiorap5585",
@@ -77,7 +77,7 @@
           {
             "text": "Tkay ",
             "navigationEndpoint": {
-              "clickTrackingParams": "CJUCENwwGAIiEwjfo_jsza2UAxVIcKQEHZJSBg3KAQTIMrf6",
+              "clickTrackingParams": "CO4BENwwGAIiEwi8saT5za2UAxUHHwYAHYtuO4PKAQSkskJ3",
               "commandMetadata": {
                 "webCommandMetadata": {
                   "url": "/channel/UCpuHaYB66qf91gKjKLHzwhA",
@@ -128,7 +128,7 @@
           {
             "text": "Tkay ",
             "navigationEndpoint": {
-              "clickTrackingParams": "CI8CENwwGAMiEwjfo_jsza2UAxVIcKQEHZJSBg3KAQTIMrf6",
+              "clickTrackingParams": "COgBENwwGAMiEwi8saT5za2UAxUHHwYAHYtuO4PKAQSkskJ3",
               "commandMetadata": {
                 "webCommandMetadata": {
                   "url": "/channel/UCpuHaYB66qf91gKjKLHzwhA",
@@ -156,57 +156,6 @@
       "isLive": false
     },
     {
-      "id": "HnOXh-DR1Ic",
-      "type": "video",
-      "thumbnail": {
-        "thumbnails": [
-          {
-            "url": "https://i.ytimg.com/vi/HnOXh-DR1Ic/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYUyBNKGUwDw==&rs=AOn4CLAfIINTL59UFXABiTLwSDxpXvZcbA",
-            "width": 360,
-            "height": 202
-          },
-          {
-            "url": "https://i.ytimg.com/vi/HnOXh-DR1Ic/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYUyBNKGUwDw==&rs=AOn4CLA7pNAA6fWboZh9b8km6M-10N2qoA",
-            "width": 720,
-            "height": 404
-          }
-        ]
-      },
-      "title": "Dariu$h - Tehroon (Official Audio)",
-      "channelTitle": "Tkay ",
-      "shortBylineText": {
-        "runs": [
-          {
-            "text": "Tkay ",
-            "navigationEndpoint": {
-              "clickTrackingParams": "CIkCENwwGAQiEwjfo_jsza2UAxVIcKQEHZJSBg3KAQTIMrf6",
-              "commandMetadata": {
-                "webCommandMetadata": {
-                  "url": "/channel/UCpuHaYB66qf91gKjKLHzwhA",
-                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
-                  "rootVe": 3611,
-                  "apiUrl": "/youtubei/v1/browse"
-                }
-              },
-              "browseEndpoint": {
-                "browseId": "UCpuHaYB66qf91gKjKLHzwhA",
-                "canonicalBaseUrl": "/channel/UCpuHaYB66qf91gKjKLHzwhA"
-              }
-            }
-          }
-        ]
-      },
-      "length": {
-        "accessibility": {
-          "accessibilityData": {
-            "label": "3 minutes, 14 seconds"
-          }
-        },
-        "simpleText": "3:14"
-      },
-      "isLive": false
-    },
-    {
       "id": "DwUH7_XlYXE",
       "type": "video",
       "thumbnail": {
@@ -230,7 +179,7 @@
           {
             "text": "Tkay ",
             "navigationEndpoint": {
-              "clickTrackingParams": "CIMCENwwGAUiEwjfo_jsza2UAxVIcKQEHZJSBg3KAQTIMrf6",
+              "clickTrackingParams": "COIBENwwGAQiEwi8saT5za2UAxUHHwYAHYtuO4PKAQSkskJ3",
               "commandMetadata": {
                 "webCommandMetadata": {
                   "url": "/channel/UCpuHaYB66qf91gKjKLHzwhA",
@@ -258,6 +207,108 @@
       "isLive": false
     },
     {
+      "id": "HnOXh-DR1Ic",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/HnOXh-DR1Ic/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYUyBNKGUwDw==&rs=AOn4CLAfIINTL59UFXABiTLwSDxpXvZcbA",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/HnOXh-DR1Ic/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYUyBNKGUwDw==&rs=AOn4CLA7pNAA6fWboZh9b8km6M-10N2qoA",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Dariu$h - Tehroon (Official Audio)",
+      "channelTitle": "Tkay ",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Tkay ",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CNwBENwwGAUiEwi8saT5za2UAxUHHwYAHYtuO4PKAQSkskJ3",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCpuHaYB66qf91gKjKLHzwhA",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCpuHaYB66qf91gKjKLHzwhA",
+                "canonicalBaseUrl": "/channel/UCpuHaYB66qf91gKjKLHzwhA"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "3 minutes, 14 seconds"
+          }
+        },
+        "simpleText": "3:14"
+      },
+      "isLive": false
+    },
+    {
+      "id": "Jw77lyF17Jc",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/Jw77lyF17Jc/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYWSBZKFkwDw==&rs=AOn4CLBMlnEWvZ8rLypdQG4TrD8YW0UdEA",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/Jw77lyF17Jc/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYWSBZKFkwDw==&rs=AOn4CLDelDukDW2g3vOHjolrB0ARW6lM8w",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Dariu$h - ATNS (Official Audio)",
+      "channelTitle": "Tkay ",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Tkay ",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CNYBENwwGAYiEwi8saT5za2UAxUHHwYAHYtuO4PKAQSkskJ3",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCpuHaYB66qf91gKjKLHzwhA",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCpuHaYB66qf91gKjKLHzwhA",
+                "canonicalBaseUrl": "/channel/UCpuHaYB66qf91gKjKLHzwhA"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "3 minutes, 5 seconds"
+          }
+        },
+        "simpleText": "3:05"
+      },
+      "isLive": false
+    },
+    {
       "id": "iqUjXVnhu1k",
       "type": "video",
       "thumbnail": {
@@ -276,7 +327,7 @@
           {
             "text": "RapFa Channel",
             "navigationEndpoint": {
-              "clickTrackingParams": "CP0BENwwGAYiEwjfo_jsza2UAxVIcKQEHZJSBg3KAQTIMrf6",
+              "clickTrackingParams": "CNABENwwGAciEwi8saT5za2UAxUHHwYAHYtuO4PKAQSkskJ3",
               "commandMetadata": {
                 "webCommandMetadata": {
                   "url": "/@RapFaChanel",
@@ -327,7 +378,7 @@
           {
             "text": "Tkay ",
             "navigationEndpoint": {
-              "clickTrackingParams": "CPcBENwwGAciEwjfo_jsza2UAxVIcKQEHZJSBg3KAQTIMrf6",
+              "clickTrackingParams": "CMoBENwwGAgiEwi8saT5za2UAxUHHwYAHYtuO4PKAQSkskJ3",
               "commandMetadata": {
                 "webCommandMetadata": {
                   "url": "/channel/UCpuHaYB66qf91gKjKLHzwhA",
@@ -378,7 +429,7 @@
           {
             "text": "meshhki",
             "navigationEndpoint": {
-              "clickTrackingParams": "CO8BEJ2kBxgIIhMI36P47M2tlAMVSHCkBB2SUgYNygEEyDK3-g==",
+              "clickTrackingParams": "CMIBEJ2kBxgJIhMIvLGk-c2tlAMVBx8GAB2LbjuDygEEpLJCdw==",
               "commandMetadata": {
                 "webCommandMetadata": {
                   "url": "/@meshhki__",
@@ -406,6 +457,76 @@
       "isLive": false
     },
     {
+      "id": "UCxJLWvX4wflfWE9uaLo1xBA",
+      "type": "channel",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "//yt3.ggpht.com/GrCX8CUap3r7K45g-5xRamArUm52ayo6A0k20Bu9akv2iN6aNJ91e3po0Fvw4egMr8Ok8gcHpLU=s88-c-k-c0x00ffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          {
+            "url": "//yt3.ggpht.com/GrCX8CUap3r7K45g-5xRamArUm52ayo6A0k20Bu9akv2iN6aNJ91e3po0Fvw4egMr8Ok8gcHpLU=s176-c-k-c0x00ffffff-no-rj-mo",
+            "width": 176,
+            "height": 176
+          }
+        ]
+      },
+      "title": "Dariush Tkar - Topic"
+    },
+    {
+      "id": "oPKghl93fOQ",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/oPKghl93fOQ/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBYKDwwDw==&rs=AOn4CLAl12o6ZIPJzLtlTATSXqBfCaUo1w",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/oPKghl93fOQ/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBYKDwwDw==&rs=AOn4CLDQeWrazyC0gLky7pDGO7WcbEDRzQ",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Dariush: Shekanjegar | داریوش: شکنجه‌گر | Official Video",
+      "channelTitle": "Dariush Eghbali",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Dariush Eghbali",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CLoBENwwGAsiEwi8saT5za2UAxUHHwYAHYtuO4PKAQSkskJ3",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCHbcYijN3XXJtvjjObRnHkA",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCHbcYijN3XXJtvjjObRnHkA",
+                "canonicalBaseUrl": "/channel/UCHbcYijN3XXJtvjjObRnHkA"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "4 minutes, 26 seconds"
+          }
+        },
+        "simpleText": "4:26"
+      },
+      "isLive": false
+    },
+    {
       "id": "Tk5lRPhJODY",
       "type": "video",
       "thumbnail": {
@@ -429,7 +550,7 @@
           {
             "text": "Tkay ",
             "navigationEndpoint": {
-              "clickTrackingParams": "COkBENwwGAkiEwjfo_jsza2UAxVIcKQEHZJSBg3KAQTIMrf6",
+              "clickTrackingParams": "CLQBENwwGAwiEwi8saT5za2UAxUHHwYAHYtuO4PKAQSkskJ3",
               "commandMetadata": {
                 "webCommandMetadata": {
                   "url": "/channel/UCpuHaYB66qf91gKjKLHzwhA",
@@ -457,331 +578,6 @@
       "isLive": false
     },
     {
-      "id": "Jw77lyF17Jc",
-      "type": "video",
-      "thumbnail": {
-        "thumbnails": [
-          {
-            "url": "https://i.ytimg.com/vi/Jw77lyF17Jc/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYWSBZKFkwDw==&rs=AOn4CLBMlnEWvZ8rLypdQG4TrD8YW0UdEA",
-            "width": 360,
-            "height": 202
-          },
-          {
-            "url": "https://i.ytimg.com/vi/Jw77lyF17Jc/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYWSBZKFkwDw==&rs=AOn4CLDelDukDW2g3vOHjolrB0ARW6lM8w",
-            "width": 720,
-            "height": 404
-          }
-        ]
-      },
-      "title": "Dariu$h - ATNS (Official Audio)",
-      "channelTitle": "Tkay ",
-      "shortBylineText": {
-        "runs": [
-          {
-            "text": "Tkay ",
-            "navigationEndpoint": {
-              "clickTrackingParams": "COMBENwwGAoiEwjfo_jsza2UAxVIcKQEHZJSBg3KAQTIMrf6",
-              "commandMetadata": {
-                "webCommandMetadata": {
-                  "url": "/channel/UCpuHaYB66qf91gKjKLHzwhA",
-                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
-                  "rootVe": 3611,
-                  "apiUrl": "/youtubei/v1/browse"
-                }
-              },
-              "browseEndpoint": {
-                "browseId": "UCpuHaYB66qf91gKjKLHzwhA",
-                "canonicalBaseUrl": "/channel/UCpuHaYB66qf91gKjKLHzwhA"
-              }
-            }
-          }
-        ]
-      },
-      "length": {
-        "accessibility": {
-          "accessibilityData": {
-            "label": "3 minutes, 5 seconds"
-          }
-        },
-        "simpleText": "3:05"
-      },
-      "isLive": false
-    },
-    {
-      "id": "3t1eCyZKjRM",
-      "type": "video",
-      "thumbnail": {
-        "thumbnails": [
-          {
-            "url": "https://i.ytimg.com/vi/3t1eCyZKjRM/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYYSBhKGEwDw==&rs=AOn4CLDsaWHH44d3fAu5Cu0zjdQLqsUvLw",
-            "width": 360,
-            "height": 202
-          },
-          {
-            "url": "https://i.ytimg.com/vi/3t1eCyZKjRM/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYYSBhKGEwDw==&rs=AOn4CLDhm7aD_p8ZXferbMeOpP1Gp6JZMg",
-            "width": 720,
-            "height": 404
-          }
-        ]
-      },
-      "title": "DARIU$H - MAMAD ZADE - INTERLUDE (OFFICIAL AUDIO)",
-      "channelTitle": "Tkay ",
-      "shortBylineText": {
-        "runs": [
-          {
-            "text": "Tkay ",
-            "navigationEndpoint": {
-              "clickTrackingParams": "CN0BENwwGAsiEwjfo_jsza2UAxVIcKQEHZJSBg3KAQTIMrf6",
-              "commandMetadata": {
-                "webCommandMetadata": {
-                  "url": "/channel/UCpuHaYB66qf91gKjKLHzwhA",
-                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
-                  "rootVe": 3611,
-                  "apiUrl": "/youtubei/v1/browse"
-                }
-              },
-              "browseEndpoint": {
-                "browseId": "UCpuHaYB66qf91gKjKLHzwhA",
-                "canonicalBaseUrl": "/channel/UCpuHaYB66qf91gKjKLHzwhA"
-              }
-            }
-          }
-        ]
-      },
-      "length": {
-        "accessibility": {
-          "accessibilityData": {
-            "label": "1 minute, 12 seconds"
-          }
-        },
-        "simpleText": "1:12"
-      },
-      "isLive": false
-    },
-    {
-      "id": "7FleKJ2E_5s",
-      "type": "video",
-      "thumbnail": {
-        "thumbnails": [
-          {
-            "url": "https://i.ytimg.com/vi/7FleKJ2E_5s/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciBkKDcwDw==&rs=AOn4CLA7QeggbEz409NGYMf-3ADo43lK7g",
-            "width": 360,
-            "height": 202
-          },
-          {
-            "url": "https://i.ytimg.com/vi/7FleKJ2E_5s/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciBkKDcwDw==&rs=AOn4CLDAHIPUPfil7NyRlidRIbSP28OpOw",
-            "width": 720,
-            "height": 404
-          }
-        ]
-      },
-      "title": "TKAR - MAMADZADE (Prod. Caddish)",
-      "channelTitle": "Amir M2",
-      "shortBylineText": {
-        "runs": [
-          {
-            "text": "Amir M2",
-            "navigationEndpoint": {
-              "clickTrackingParams": "CNcBENwwGAwiEwjfo_jsza2UAxVIcKQEHZJSBg3KAQTIMrf6",
-              "commandMetadata": {
-                "webCommandMetadata": {
-                  "url": "/@Caddish",
-                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
-                  "rootVe": 3611,
-                  "apiUrl": "/youtubei/v1/browse"
-                }
-              },
-              "browseEndpoint": {
-                "browseId": "UCZYWjLiJ2xkAr5wl7HrTYjQ",
-                "canonicalBaseUrl": "/@Caddish"
-              }
-            }
-          }
-        ]
-      },
-      "length": {
-        "accessibility": {
-          "accessibilityData": {
-            "label": "2 minutes, 37 seconds"
-          }
-        },
-        "simpleText": "2:37"
-      },
-      "isLive": false
-    },
-    {
-      "id": "-GtPXdJcg74",
-      "type": "video",
-      "thumbnail": {
-        "thumbnails": [
-          {
-            "url": "https://i.ytimg.com/vi/-GtPXdJcg74/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYYCBgKGAwDw==&rs=AOn4CLCCHvowCeMiHROI9jvdP2mAxhsQog",
-            "width": 360,
-            "height": 202
-          },
-          {
-            "url": "https://i.ytimg.com/vi/-GtPXdJcg74/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYYCBgKGAwDw==&rs=AOn4CLC9dinTpynA52ZkSYXNQgqwp0wFMQ",
-            "width": 720,
-            "height": 404
-          }
-        ]
-      },
-      "title": "Dariu$h - Balatar (Official Audio)",
-      "channelTitle": "Tkay ",
-      "shortBylineText": {
-        "runs": [
-          {
-            "text": "Tkay ",
-            "navigationEndpoint": {
-              "clickTrackingParams": "CGwQ3DAYDiITCN-j-OzNrZQDFUhwpAQdklIGDcoBBMgyt_o=",
-              "commandMetadata": {
-                "webCommandMetadata": {
-                  "url": "/channel/UCpuHaYB66qf91gKjKLHzwhA",
-                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
-                  "rootVe": 3611,
-                  "apiUrl": "/youtubei/v1/browse"
-                }
-              },
-              "browseEndpoint": {
-                "browseId": "UCpuHaYB66qf91gKjKLHzwhA",
-                "canonicalBaseUrl": "/channel/UCpuHaYB66qf91gKjKLHzwhA"
-              }
-            }
-          }
-        ]
-      },
-      "length": {
-        "accessibility": {
-          "accessibilityData": {
-            "label": "4 minutes, 14 seconds"
-          }
-        },
-        "simpleText": "4:14"
-      },
-      "isLive": false
-    },
-    {
-      "id": "vlbLwZipsSE",
-      "type": "video",
-      "thumbnail": {
-        "thumbnails": [
-          {
-            "url": "https://i.ytimg.com/vi/vlbLwZipsSE/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYWyBbKFswDw==&rs=AOn4CLADNTbxG7uv0eZX4cTX3_2PpqEqbw",
-            "width": 360,
-            "height": 202
-          },
-          {
-            "url": "https://i.ytimg.com/vi/vlbLwZipsSE/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYWyBbKFswDw==&rs=AOn4CLCDmuM6jUnHLUr_HeXuu_r_1NNqRw",
-            "width": 720,
-            "height": 404
-          }
-        ]
-      },
-      "title": "Dorcci x Dariu$h x Kagan - Surprise (Official Audio)",
-      "channelTitle": "Dorcci",
-      "shortBylineText": {
-        "runs": [
-          {
-            "text": "Dorcci",
-            "navigationEndpoint": {
-              "clickTrackingParams": "CGYQ3DAYDyITCN-j-OzNrZQDFUhwpAQdklIGDcoBBMgyt_o=",
-              "commandMetadata": {
-                "webCommandMetadata": {
-                  "url": "/channel/UC0z_FOHFZaE07YGbLVUzlQA",
-                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
-                  "rootVe": 3611,
-                  "apiUrl": "/youtubei/v1/browse"
-                }
-              },
-              "browseEndpoint": {
-                "browseId": "UC0z_FOHFZaE07YGbLVUzlQA",
-                "canonicalBaseUrl": "/channel/UC0z_FOHFZaE07YGbLVUzlQA"
-              }
-            }
-          }
-        ]
-      },
-      "length": {
-        "accessibility": {
-          "accessibilityData": {
-            "label": "3 minutes, 41 seconds"
-          }
-        },
-        "simpleText": "3:41"
-      },
-      "isLive": false
-    },
-    {
-      "id": "UCxJLWvX4wflfWE9uaLo1xBA",
-      "type": "channel",
-      "thumbnail": {
-        "thumbnails": [
-          {
-            "url": "//yt3.ggpht.com/GrCX8CUap3r7K45g-5xRamArUm52ayo6A0k20Bu9akv2iN6aNJ91e3po0Fvw4egMr8Ok8gcHpLU=s88-c-k-c0x00ffffff-no-rj-mo",
-            "width": 88,
-            "height": 88
-          },
-          {
-            "url": "//yt3.ggpht.com/GrCX8CUap3r7K45g-5xRamArUm52ayo6A0k20Bu9akv2iN6aNJ91e3po0Fvw4egMr8Ok8gcHpLU=s176-c-k-c0x00ffffff-no-rj-mo",
-            "width": 176,
-            "height": 176
-          }
-        ]
-      },
-      "title": "Dariush Tkar - Topic"
-    },
-    {
-      "id": "7jPoIlt3Nqw",
-      "type": "video",
-      "thumbnail": {
-        "thumbnails": [
-          {
-            "url": "https://i.ytimg.com/vi/7jPoIlt3Nqw/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCOVuXS9hmxZmrWOmsergchJK4KQQ",
-            "width": 360,
-            "height": 202
-          },
-          {
-            "url": "https://i.ytimg.com/vi/7jPoIlt3Nqw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAduVQTJzu7YHSYEC8-kitEifQ2Zw",
-            "width": 720,
-            "height": 404
-          }
-        ]
-      },
-      "title": "Dariu$h Tkar - Piroozi (Remastered)",
-      "channelTitle": "MoodyMehdi",
-      "shortBylineText": {
-        "runs": [
-          {
-            "text": "MoodyMehdi",
-            "navigationEndpoint": {
-              "clickTrackingParams": "CF4Q3DAYESITCN-j-OzNrZQDFUhwpAQdklIGDcoBBMgyt_o=",
-              "commandMetadata": {
-                "webCommandMetadata": {
-                  "url": "/@moodymehdi",
-                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
-                  "rootVe": 3611,
-                  "apiUrl": "/youtubei/v1/browse"
-                }
-              },
-              "browseEndpoint": {
-                "browseId": "UCbJQ2n4-c0_0Npo8U9zkyfQ",
-                "canonicalBaseUrl": "/@moodymehdi"
-              }
-            }
-          }
-        ]
-      },
-      "length": {
-        "accessibility": {
-          "accessibilityData": {
-            "label": "5 minutes, 4 seconds"
-          }
-        },
-        "simpleText": "5:04"
-      },
-      "isLive": false
-    },
-    {
       "id": "P2K6rxxY3-8",
       "type": "video",
       "thumbnail": {
@@ -805,7 +601,7 @@
           {
             "text": "Mammad Zakhare",
             "navigationEndpoint": {
-              "clickTrackingParams": "CFgQ3DAYEiITCN-j-OzNrZQDFUhwpAQdklIGDcoBBMgyt_o=",
+              "clickTrackingParams": "CHAQ3DAYDiITCLyxpPnNrZQDFQcfBgAdi247g8oBBKSyQnc=",
               "commandMetadata": {
                 "webCommandMetadata": {
                   "url": "/@MammadZakhare",
@@ -833,41 +629,41 @@
       "isLive": false
     },
     {
-      "id": "xvzB8ZRWUAs",
+      "id": "-GtPXdJcg74",
       "type": "video",
       "thumbnail": {
         "thumbnails": [
           {
-            "url": "https://i.ytimg.com/vi/xvzB8ZRWUAs/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAYlxH9Z1CMvCmkGtv_NqYY8R1I7Q",
+            "url": "https://i.ytimg.com/vi/-GtPXdJcg74/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYYCBgKGAwDw==&rs=AOn4CLCCHvowCeMiHROI9jvdP2mAxhsQog",
             "width": 360,
             "height": 202
           },
           {
-            "url": "https://i.ytimg.com/vi/xvzB8ZRWUAs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAL_3nauYtp0rlv8hugpw8C1elvKQ",
+            "url": "https://i.ytimg.com/vi/-GtPXdJcg74/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYYCBgKGAwDw==&rs=AOn4CLC9dinTpynA52ZkSYXNQgqwp0wFMQ",
             "width": 720,
             "height": 404
           }
         ]
       },
-      "title": "Sajad Shahi - TASLIAT (feat. Dariu$h) (Official Visualizer)",
-      "channelTitle": "Sajad Shahi",
+      "title": "Dariu$h - Balatar (Official Audio)",
+      "channelTitle": "Tkay ",
       "shortBylineText": {
         "runs": [
           {
-            "text": "Sajad Shahi",
+            "text": "Tkay ",
             "navigationEndpoint": {
-              "clickTrackingParams": "CFIQ3DAYEyITCN-j-OzNrZQDFUhwpAQdklIGDcoBBMgyt_o=",
+              "clickTrackingParams": "CGoQ3DAYDyITCLyxpPnNrZQDFQcfBgAdi247g8oBBKSyQnc=",
               "commandMetadata": {
                 "webCommandMetadata": {
-                  "url": "/channel/UCGY0lcde-2Okxh5uX2q6jTQ",
+                  "url": "/channel/UCpuHaYB66qf91gKjKLHzwhA",
                   "webPageType": "WEB_PAGE_TYPE_CHANNEL",
                   "rootVe": 3611,
                   "apiUrl": "/youtubei/v1/browse"
                 }
               },
               "browseEndpoint": {
-                "browseId": "UCGY0lcde-2Okxh5uX2q6jTQ",
-                "canonicalBaseUrl": "/channel/UCGY0lcde-2Okxh5uX2q6jTQ"
+                "browseId": "UCpuHaYB66qf91gKjKLHzwhA",
+                "canonicalBaseUrl": "/channel/UCpuHaYB66qf91gKjKLHzwhA"
               }
             }
           }
@@ -876,49 +672,49 @@
       "length": {
         "accessibility": {
           "accessibilityData": {
-            "label": "4 minutes, 17 seconds"
+            "label": "4 minutes, 14 seconds"
           }
         },
-        "simpleText": "4:17"
+        "simpleText": "4:14"
       },
       "isLive": false
     },
     {
-      "id": "akBsJnJ-KVE",
+      "id": "3t1eCyZKjRM",
       "type": "video",
       "thumbnail": {
         "thumbnails": [
           {
-            "url": "https://i.ytimg.com/vi/akBsJnJ-KVE/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLB2FcjcW45zWZjVmXNmrRp0iM7IlA",
+            "url": "https://i.ytimg.com/vi/3t1eCyZKjRM/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYYSBhKGEwDw==&rs=AOn4CLDsaWHH44d3fAu5Cu0zjdQLqsUvLw",
             "width": 360,
             "height": 202
           },
           {
-            "url": "https://i.ytimg.com/vi/akBsJnJ-KVE/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDwrfcbHxkNRYOgqTujy3VR2p2ycA",
+            "url": "https://i.ytimg.com/vi/3t1eCyZKjRM/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYYSBhKGEwDw==&rs=AOn4CLDhm7aD_p8ZXferbMeOpP1Gp6JZMg",
             "width": 720,
             "height": 404
           }
         ]
       },
-      "title": "Kar Freestyle Dariush - TKAR",
-      "channelTitle": "theDNPs",
+      "title": "DARIU$H - MAMAD ZADE - INTERLUDE (OFFICIAL AUDIO)",
+      "channelTitle": "Tkay ",
       "shortBylineText": {
         "runs": [
           {
-            "text": "theDNPs",
+            "text": "Tkay ",
             "navigationEndpoint": {
-              "clickTrackingParams": "CEwQ3DAYFCITCN-j-OzNrZQDFUhwpAQdklIGDcoBBMgyt_o=",
+              "clickTrackingParams": "CGQQ3DAYECITCLyxpPnNrZQDFQcfBgAdi247g8oBBKSyQnc=",
               "commandMetadata": {
                 "webCommandMetadata": {
-                  "url": "/@thednps9786",
+                  "url": "/channel/UCpuHaYB66qf91gKjKLHzwhA",
                   "webPageType": "WEB_PAGE_TYPE_CHANNEL",
                   "rootVe": 3611,
                   "apiUrl": "/youtubei/v1/browse"
                 }
               },
               "browseEndpoint": {
-                "browseId": "UCl2i-b5Bl1EQA2gDAfTdcfg",
-                "canonicalBaseUrl": "/@thednps9786"
+                "browseId": "UCpuHaYB66qf91gKjKLHzwhA",
+                "canonicalBaseUrl": "/channel/UCpuHaYB66qf91gKjKLHzwhA"
               }
             }
           }
@@ -927,10 +723,10 @@
       "length": {
         "accessibility": {
           "accessibilityData": {
-            "label": "1 minute, 42 seconds"
+            "label": "1 minute, 12 seconds"
           }
         },
-        "simpleText": "1:42"
+        "simpleText": "1:12"
       },
       "isLive": false
     },
@@ -958,7 +754,7 @@
           {
             "text": "Bache Lofi",
             "navigationEndpoint": {
-              "clickTrackingParams": "CEQQnaQHGBUiEwjfo_jsza2UAxVIcKQEHZJSBg3KAQTIMrf6",
+              "clickTrackingParams": "CFwQnaQHGBEiEwi8saT5za2UAxUHHwYAHYtuO4PKAQSkskJ3",
               "commandMetadata": {
                 "webCommandMetadata": {
                   "url": "/@bachelofi",
@@ -982,6 +778,210 @@
           }
         },
         "simpleText": "0:16"
+      },
+      "isLive": false
+    },
+    {
+      "id": "vlbLwZipsSE",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/vlbLwZipsSE/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYWyBbKFswDw==&rs=AOn4CLADNTbxG7uv0eZX4cTX3_2PpqEqbw",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/vlbLwZipsSE/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYWyBbKFswDw==&rs=AOn4CLCDmuM6jUnHLUr_HeXuu_r_1NNqRw",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Dorcci x Dariu$h x Kagan - Surprise (Official Audio)",
+      "channelTitle": "Dorcci",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Dorcci",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CFYQ3DAYEiITCLyxpPnNrZQDFQcfBgAdi247g8oBBKSyQnc=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UC0z_FOHFZaE07YGbLVUzlQA",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UC0z_FOHFZaE07YGbLVUzlQA",
+                "canonicalBaseUrl": "/channel/UC0z_FOHFZaE07YGbLVUzlQA"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "3 minutes, 41 seconds"
+          }
+        },
+        "simpleText": "3:41"
+      },
+      "isLive": false
+    },
+    {
+      "id": "7FleKJ2E_5s",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/7FleKJ2E_5s/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciBkKDcwDw==&rs=AOn4CLA7QeggbEz409NGYMf-3ADo43lK7g",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/7FleKJ2E_5s/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciBkKDcwDw==&rs=AOn4CLDAHIPUPfil7NyRlidRIbSP28OpOw",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "TKAR - MAMADZADE (Prod. Caddish)",
+      "channelTitle": "Amir M2",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Amir M2",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CFAQ3DAYEyITCLyxpPnNrZQDFQcfBgAdi247g8oBBKSyQnc=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@Caddish",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCZYWjLiJ2xkAr5wl7HrTYjQ",
+                "canonicalBaseUrl": "/@Caddish"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "2 minutes, 37 seconds"
+          }
+        },
+        "simpleText": "2:37"
+      },
+      "isLive": false
+    },
+    {
+      "id": "akBsJnJ-KVE",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/akBsJnJ-KVE/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLB2FcjcW45zWZjVmXNmrRp0iM7IlA",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/akBsJnJ-KVE/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDwrfcbHxkNRYOgqTujy3VR2p2ycA",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Kar Freestyle Dariush - TKAR",
+      "channelTitle": "theDNPs",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "theDNPs",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CEoQ3DAYFCITCLyxpPnNrZQDFQcfBgAdi247g8oBBKSyQnc=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@thednps9786",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCl2i-b5Bl1EQA2gDAfTdcfg",
+                "canonicalBaseUrl": "/@thednps9786"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "1 minute, 42 seconds"
+          }
+        },
+        "simpleText": "1:42"
+      },
+      "isLive": false
+    },
+    {
+      "id": "VqWWB8mCBEs",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/VqWWB8mCBEs/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBLr4pJPGZ7Ra4LfSHdZa1RqVhm6Q",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/VqWWB8mCBEs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAjA-vUoaWi7cxrgrcfPOxda01Phg",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Dariush - Dastaye Tou (Official Audio & Lyrics) | داریوش - دستای تو",
+      "channelTitle": "Caltex Records",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Caltex Records",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CEQQ3DAYFSITCLyxpPnNrZQDFQcfBgAdi247g8oBBKSyQnc=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@caltexrecords",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCWV0T66CSGlSIwHvS9pBR2w",
+                "canonicalBaseUrl": "/@caltexrecords"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "3 minutes, 27 seconds"
+          }
+        },
+        "simpleText": "3:27"
       },
       "isLive": false
     }
