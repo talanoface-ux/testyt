@@ -1,0 +1,911 @@
+{
+  "query": "ran",
+  "timestamp": "2026-05-10T01:53:12.300Z",
+  "results": [
+    {
+      "id": "VYGDO340hCE",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/VYGDO340hCE/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0C5mq3HuGwkGNwExkjBhiF0DT-A",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/VYGDO340hCE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAtRRxGJTtsiM48ptoSOv6QFg8U4w",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "One Giant Box - So Many Future Boat Parts - Ep. 487 Ran Sailing",
+      "channelTitle": "RAN Sailing",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "RAN Sailing",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CPIDENwwGAEiEwieyeyjzq2UAxXlXKQEHSPvLp7KAQSyFsR9",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@RANSailing",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCLYd5EnTTwUKhouIkHoqzMw",
+                "canonicalBaseUrl": "/@RANSailing"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "25 minutes, 31 seconds"
+          }
+        },
+        "simpleText": "25:31"
+      },
+      "isLive": false
+    },
+    {
+      "id": "YwP_kXyd-Rw",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/YwP_kXyd-Rw/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCUFYP6Niz-uMWUlfBBSK1Z9yZ-1A",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/YwP_kXyd-Rw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAGuZsgV58R7ci2VgpadxVWs-pkeg",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Ran | Official Trailer",
+      "channelTitle": "StudiocanalUK",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "StudiocanalUK",
+            "navigationEndpoint": {
+              "clickTrackingParams": "COwDENwwGAIiEwieyeyjzq2UAxXlXKQEHSPvLp7KAQSyFsR9",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@studiocanaluk",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCFSILgKCKo35QYGz8Kob51g",
+                "canonicalBaseUrl": "/@studiocanaluk"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "1 minute, 4 seconds"
+          }
+        },
+        "simpleText": "1:04"
+      },
+      "isLive": false
+    },
+    {
+      "id": "eTeD8DAta4c",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/eTeD8DAta4c/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD1FqoOYOxHNYY0asQv-TZrOPzDyw",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/eTeD8DAta4c/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD-IDROsQqUzfteUbwcnMRTPhWRTw",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Relaxing Rain Sounds = Drifting to Sleep 😴",
+      "channelTitle": "Relaxing White Noise",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Relaxing White Noise",
+            "navigationEndpoint": {
+              "clickTrackingParams": "COYDENwwGAMiEwieyeyjzq2UAxXlXKQEHSPvLp7KAQSyFsR9",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@RelaxingWhiteNoise",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCbunYN0o9Yaid7zHaor_UHA",
+                "canonicalBaseUrl": "/@RelaxingWhiteNoise"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "10 hours, 2 seconds"
+          }
+        },
+        "simpleText": "10:00:02"
+      },
+      "isLive": false
+    },
+    {
+      "id": "qEsPqJOKmiQ",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/qEsPqJOKmiQ/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBMKD8wDw==&rs=AOn4CLC69DTZlrYSCFC5AWY4v1Q0byxRRw",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/qEsPqJOKmiQ/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBMKD8wDw==&rs=AOn4CLCi5dn8-0k5YxT_t8CIS6NHKCcK_Q",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "[HD] Kurogane Confronts Kaede; Ran (1985) directed by Akira Kurosawa",
+      "channelTitle": "Prospector",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Prospector",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CNUDENwwGAQiEwieyeyjzq2UAxXlXKQEHSPvLp7KAQSyFsR9",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@Foxhawk",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UC9MAqHncxzEK6ajBqP3HFDA",
+                "canonicalBaseUrl": "/@Foxhawk"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "1 minute, 13 seconds"
+          }
+        },
+        "simpleText": "1:13"
+      },
+      "isLive": false
+    },
+    {
+      "id": "e6NMNJcudlI",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/e6NMNJcudlI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA6gHKIqzM-cuqZeO23O56DUAOYLA",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/e6NMNJcudlI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCa7ci3NazdtMdHYBSPkRZG2auY6Q",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Akira Kurosawa’s Epic Action Drama Ran | Best Scenes",
+      "channelTitle": "StudiocanalUK",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "StudiocanalUK",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CMUDENwwGAUiEwieyeyjzq2UAxXlXKQEHSPvLp7KAQSyFsR9",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@studiocanaluk",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCFSILgKCKo35QYGz8Kob51g",
+                "canonicalBaseUrl": "/@studiocanaluk"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "9 minutes, 1 second"
+          }
+        },
+        "simpleText": "9:01"
+      },
+      "isLive": false
+    },
+    {
+      "id": "UCIq1gMax9m-25lMGU8a4nsg",
+      "type": "channel",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "//yt3.ggpht.com/6p1kPz4hpf6_hTbc6EQ2SAhmEymptGJXdn4SqHByBFlGWWm8_a1JPJT40rh7JNrlJNW2nnN8=s88-c-k-c0x00ffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          {
+            "url": "//yt3.ggpht.com/6p1kPz4hpf6_hTbc6EQ2SAhmEymptGJXdn4SqHByBFlGWWm8_a1JPJT40rh7JNrlJNW2nnN8=s176-c-k-c0x00ffffff-no-rj-mo",
+            "width": 176,
+            "height": 176
+          }
+        ]
+      },
+      "title": "Ran To Japan"
+    },
+    {
+      "id": "p2b60AwAOeA",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/p2b60AwAOeA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA_NvS4BH-KKYtKcWszrECwzDhtPg",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/p2b60AwAOeA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBmGSrFXp2Pge6lsZDS2TpPvTE_0Q",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "RAN | Official Trailer | Now Showing on MUBI",
+      "channelTitle": "MUBI",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "MUBI",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CL0DENwwGAciEwieyeyjzq2UAxXlXKQEHSPvLp7KAQSyFsR9",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@mubi",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCb6-VM5UQ4Czj_d3m9EPGfg",
+                "canonicalBaseUrl": "/@mubi"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "47 seconds"
+          }
+        },
+        "simpleText": "0:47"
+      },
+      "isLive": false
+    },
+    {
+      "id": "O1UHXWCjfTA",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/O1UHXWCjfTA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAsKSQ0V4clzlnhJ11FqNNcuFmD1Q",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/O1UHXWCjfTA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC9FKIsvdyCj3ldZPl5I7DsCEuvcw",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Run {2004) Full HD Hindi Movies | Bollywood Action Comedy | Abhishek , Bhoomika Chawla",
+      "channelTitle": "90's Bollywood",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "90's Bollywood",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CKADENwwGAgiEwieyeyjzq2UAxXlXKQEHSPvLp7KAQSyFsR9",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@90sBollywoodHD",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCaJxQt_zi5AT1IWQL-aAPqQ",
+                "canonicalBaseUrl": "/@90sBollywoodHD"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "2 hours, 12 minutes, 28 seconds"
+          }
+        },
+        "simpleText": "2:12:28"
+      },
+      "isLive": false
+    },
+    {
+      "id": "T4Nb5SiYvQ4",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/T4Nb5SiYvQ4/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyBCKDcwDw==&rs=AOn4CLAcC_lvJf65rRATOXEDhaHULl4Xhw",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/T4Nb5SiYvQ4/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYfyBCKDcwDw==&rs=AOn4CLCd4cNVQgocCzhHOjTz5F9Xgj1vXA",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "RAN - 4K Restoration Trailer",
+      "channelTitle": "Rialto Pictures",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Rialto Pictures",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CJoDENwwGAkiEwieyeyjzq2UAxXlXKQEHSPvLp7KAQSyFsR9",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@rialtomedia",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UC0ixQQFGkyrx5T8nqKxSzPg",
+                "canonicalBaseUrl": "/@rialtomedia"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "2 minutes, 3 seconds"
+          }
+        },
+        "simpleText": "2:03"
+      },
+      "isLive": false
+    },
+    {
+      "id": "jupxGK-XNk4",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/jupxGK-XNk4/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYYSBlKFgwDw==&rs=AOn4CLB3uImi0GBqtJhm7ERFI7mgG6Ihqw",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/jupxGK-XNk4/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYYSBlKFgwDw==&rs=AOn4CLBccjsp_rKSuygWKIyS9l7jhLpoEw",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "RAN - 35 Scenes in 35 Seconds - Directed by Akira Kurosawa",
+      "channelTitle": "StudiocanalUK",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "StudiocanalUK",
+            "navigationEndpoint": {
+              "clickTrackingParams": "COkCENwwGAsiEwieyeyjzq2UAxXlXKQEHSPvLp7KAQSyFsR9",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@studiocanaluk",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCFSILgKCKo35QYGz8Kob51g",
+                "canonicalBaseUrl": "/@studiocanaluk"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "37 seconds"
+          }
+        },
+        "simpleText": "0:37"
+      },
+      "isLive": false
+    },
+    {
+      "id": "w-VxyEjPlRU",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/w-VxyEjPlRU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDN2gYTRNc6N4d-xGAN2ARwUf3zUg",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/w-VxyEjPlRU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCnXRcbHspGH1Dk65QTHR5JXJ41jA",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Akira Kurosawa | RAN - Hell's Picture Scroll [4K]",
+      "channelTitle": "clarencito",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "clarencito",
+            "navigationEndpoint": {
+              "clickTrackingParams": "COMCENwwGAwiEwieyeyjzq2UAxXlXKQEHSPvLp7KAQSyFsR9",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@Clarencito",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCXRxYSJDmVJu4ciZcx4GMFw",
+                "canonicalBaseUrl": "/@Clarencito"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "5 minutes, 23 seconds"
+          }
+        },
+        "simpleText": "5:23"
+      },
+      "isLive": false
+    },
+    {
+      "id": "Rat_zakJj6k",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/Rat_zakJj6k/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAROEsCCAQzxUkbf0M0J9vQsMIA7Q",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/Rat_zakJj6k/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAZ0uLQynUXe5clcSY9IeX6ICab-g",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Miguel - R.A.N. (Official Video)",
+      "channelTitle": "Miguel",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Miguel",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CN0CENwwGA0iEwieyeyjzq2UAxXlXKQEHSPvLp7KAQSyFsR9",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCxU6nh0LHqH9H4-fxWMGsgw",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCxU6nh0LHqH9H4-fxWMGsgw",
+                "canonicalBaseUrl": "/channel/UCxU6nh0LHqH9H4-fxWMGsgw"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "4 minutes, 15 seconds"
+          }
+        },
+        "simpleText": "4:15"
+      },
+      "isLive": false
+    },
+    {
+      "id": "UCtm1o5F_SZNeYhT9N6q48zQ",
+      "type": "channel",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "//yt3.ggpht.com/JKaf0WWMUS7h7NoFpaxLRV3h6-_ZSlLTpSJctt6Ngyey1b663sZ7XOTA2iQR-uWyCD4acIycWA=s88-c-k-c0x00ffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          {
+            "url": "//yt3.ggpht.com/JKaf0WWMUS7h7NoFpaxLRV3h6-_ZSlLTpSJctt6Ngyey1b663sZ7XOTA2iQR-uWyCD4acIycWA=s176-c-k-c0x00ffffff-no-rj-mo",
+            "width": 176,
+            "height": 176
+          }
+        ]
+      },
+      "title": "Ran"
+    },
+    {
+      "id": "iIpfWORQWhU",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/iIpfWORQWhU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBTp6m3O6hoF89lGHyiHCvSaiphsg",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/iIpfWORQWhU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAAV5EHmw_ZZI8R7oCvimSyaMZ3mQ",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "A Flock Of Seagulls - I Ran (So Far Away) (Video)",
+      "channelTitle": "A Flock of Seagulls",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "A Flock of Seagulls",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CIACENwwGBAiEwieyeyjzq2UAxXlXKQEHSPvLp7KAQSyFsR9",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCOuWMkubZ_Vfvr_B6O8qvbg",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCOuWMkubZ_Vfvr_B6O8qvbg",
+                "canonicalBaseUrl": "/channel/UCOuWMkubZ_Vfvr_B6O8qvbg"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "3 minutes, 58 seconds"
+          }
+        },
+        "simpleText": "3:58"
+      },
+      "isLive": false
+    },
+    {
+      "id": "F69_MqGT7hk",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/F69_MqGT7hk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAdZIz9sPKTOtjtyEOLMKOXCxxVrw",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/F69_MqGT7hk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCoD8MYvJ5hX8KcCac4p2W4CZsVlQ",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Why Ran (1985) is Kurosawa's Greatest Film",
+      "channelTitle": "Lost to Time",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Lost to Time",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CJ8BENwwGBIiEwieyeyjzq2UAxXlXKQEHSPvLp7KAQSyFsR9",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@Lost-to-time",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCYqzTdYukVT26qRi-1GRblg",
+                "canonicalBaseUrl": "/@Lost-to-time"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "16 minutes, 46 seconds"
+          }
+        },
+        "simpleText": "16:46"
+      },
+      "isLive": false
+    },
+    {
+      "id": "POBUNUAZysk",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/POBUNUAZysk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDCqRegazO6vbQf7GoIe-ALeYFYiQ",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/POBUNUAZysk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDM1kM8e7doTNr-HRt9sRemcJDCWw",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Ran: The Most Beautiful Movie Ever Filmed",
+      "channelTitle": "Bushido Blues",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Bushido Blues",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CIIBENwwGBMiEwieyeyjzq2UAxXlXKQEHSPvLp7KAQSyFsR9",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@bushidoblues9302",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCnx_YzjNGATWqVaPwSd6-xg",
+                "canonicalBaseUrl": "/@bushidoblues9302"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "6 minutes, 51 seconds"
+          }
+        },
+        "simpleText": "6:51"
+      },
+      "isLive": false
+    },
+    {
+      "id": "EozneT0Z0RM",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/EozneT0Z0RM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBBFvwgUelRg5lixWxCIJFk6z2hRg",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/EozneT0Z0RM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAeIw28zujLvL5lBC3tLDygeVHIRw",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "RAN (CHAOS WAR) - SHOGUN BATTLE - AKIRA KUROSAWA",
+      "channelTitle": "VideoMojo",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "VideoMojo",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CFAQ3DAYFSITCJ7J7KPOrZQDFeVcpAQdI-8unsoBBLIWxH0=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@videomojo111",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCW3pFT2_8bCBPsorY2wKnIQ",
+                "canonicalBaseUrl": "/@videomojo111"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "4 minutes, 54 seconds"
+          }
+        },
+        "simpleText": "4:54"
+      },
+      "isLive": false
+    },
+    {
+      "id": "G3HhNrRTNWg",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/G3HhNrRTNWg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB1uF_cqMv74TD8unNlo1oisYP6UQ",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/G3HhNrRTNWg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAFkYdIIjv7dmNq4VT1WtJGNiIcqA",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Deji - RAN (Official Music Video)",
+      "channelTitle": "Deji",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Deji",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CEoQ3DAYFiITCJ7J7KPOrZQDFeVcpAQdI-8unsoBBLIWxH0=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@Deji",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCrqsNpKuDQZreGaxBL_a5Jg",
+                "canonicalBaseUrl": "/@Deji"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "2 minutes, 55 seconds"
+          }
+        },
+        "simpleText": "2:55"
+      },
+      "isLive": false
+    },
+    {
+      "id": "07Dn-KDS-ag",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/07Dn-KDS-ag/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDIkX905kz5nJkvfl2X1f51F76W_w",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/07Dn-KDS-ag/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCZc_daB2EEQoHRQJvj14yzfQbFeA",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "RAN - Dekat di Hati (Official Music Video)",
+      "channelTitle": "RANforyourlife",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "RANforyourlife",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CEQQ3DAYFyITCJ7J7KPOrZQDFeVcpAQdI-8unsoBBLIWxH0=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UC_WmGIkqyKQ8sPE2W1LMNyw",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UC_WmGIkqyKQ8sPE2W1LMNyw",
+                "canonicalBaseUrl": "/channel/UC_WmGIkqyKQ8sPE2W1LMNyw"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "4 minutes, 36 seconds"
+          }
+        },
+        "simpleText": "4:36"
+      },
+      "isLive": false
+    }
+  ]
+}
